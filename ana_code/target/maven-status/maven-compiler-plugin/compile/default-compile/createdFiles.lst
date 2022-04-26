@@ -1,0 +1,5 @@
+Twitter/FakeTweets.class
+Twitter/FakeTweetsMapper.class
+category/DLMapper.class
+category/DataLabel.class
+category/DLReducer.class
