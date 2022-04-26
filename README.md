@@ -1,7 +1,7 @@
 # Covid-19 Misinformation 
 ## Crystal Chu and Allen Li 
 **NOTES FOR TWITTER:**
-* Maven is used to build project JAR. Dependencies are located in pom.xml
+* Maven is used to build project JAR. Dependencies are located in `pom.xml`
 * Before proceeding to run any of the programs, be sure to transfer the input files (see Input data section) to Peel
 
 
