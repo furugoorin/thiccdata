@@ -30,6 +30,10 @@ Instructions located in `data_ingest`.
   ```
   scp result.csv [netid]@peel.hpc.nyu.edu:/home/[netid]
   ```
+  * this input data can also be found in HDFS
+  ```
+  hdfs dfs -ls dirToShareAccess
+  ```
 * `fakesubset.txt` - text file that contains a subset (344) of fake tweets. Obtained by using Hive queries on the cleaned output from `etl_code`
   * transfer to Peel: 
   ```
