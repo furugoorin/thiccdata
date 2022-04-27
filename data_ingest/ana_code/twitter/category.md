@@ -2,7 +2,7 @@
 
 This categorizes each tweet into their respective categories, which are defined in `DLMapper.java`.
 
-`fakesubset.txt` is provided in this project as a subset of 344 tweets from the cleaned output obtained from `etl_code/src/main/java/Twitter`. See `README.md` in the root directory for instructions on how to obtain another random subset.
+`fakesubset.txt` is provided in this project as a subset of 344 tweets from the cleaned output obtained from `etl_code/twitter/src/main/java/Twitter`. See `README.md` in the root directory for instructions on how to obtain another random subset.
 
 ### Steps to run: 
 1. Login to Peel 

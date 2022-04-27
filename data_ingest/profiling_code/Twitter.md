@@ -6,7 +6,7 @@ This provides the number of records in the Twitter dataset before and after clea
 
 ## Before cleaning
 ### Steps to run: 
-1. Run command at `submission/profiling_code`
+1. Run command at `submission/profiling_code/twitter`
    ```
    mvn clean package assembly:single 
    ```

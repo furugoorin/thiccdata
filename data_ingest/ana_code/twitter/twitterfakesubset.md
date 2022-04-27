@@ -3,7 +3,7 @@
 This obtains a subset of tweets labeled as fake from the cleaned output of `etl_code`.
 
 ### Steps to run: 
-1. run command at `submission/ana_code`
+1. run command at `submission/ana_code/twitter`
    ```
    mvn clean package assembly:single
    ```

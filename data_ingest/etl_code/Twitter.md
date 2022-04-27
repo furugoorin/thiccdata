@@ -3,7 +3,7 @@
 This cleans the Twitter dataset so that it removes multi-line tweets that may cause issues. 
 
 ### Steps to run: 
-1. Run command at `submission/etl_code`
+1. Run command at `submission/etl_code/twitter`
    ```
    mvn clean package assembly:single 
    ```
