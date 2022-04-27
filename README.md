@@ -7,17 +7,23 @@
 
 ### Code Organization
 * `/ana_code` - contains source code for analytics 
-  * `/src/main/java/category` - code for Twitter analytics
-  * `/src/main/java/twitterfakesubset` - code for extraction of a subset (344) of tweets labeled as fake 
+  * `/twitter`
+    * `/src/main/java/category` - code for Twitter analytics
+    * `/src/main/java/twitterfakesubset` - code for extraction of a subset (344) of tweets labeled as fake 
 * `/data_ingest` - commands for code ingestion 
 * `/etl_code` - ETL/cleaning 
-  * `/src/main/java/Twitter` - code for cleaning Twitter dataset 
+  * `/twitter`
+    * `/src/main/java/Twitter` - code for cleaning Twitter dataset 
 * `/profiling_code` - profiling 
-  * `/src/main/java/Twitter` - code for profiling Twitter dataset
+  * `/twitter`
+    * `/src/main/java/Twitter` - code for profiling Twitter dataset
 * `/screenshots` - screenshots for every step
   * `/ana_code `
+    * `/twitter`
   * `/etl_code`
+    * `/twitter`
   * `/profiling_code`
+    * `/twitter`
   * `/twitterfakeset`
 
 ### Commands to run the programs 
