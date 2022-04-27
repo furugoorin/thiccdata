@@ -14,8 +14,9 @@ public class DataLabel {
             System.err.println("Usage: DataLabel <input path> <output path>");
             System.exit(-1);
         }
-
-        Job job = new Job();
+        Configuration conf = new Configuration();
+        conf.set("mapred.textoutputformat.separator", ",");
+        Job job = new Job(conf);
         job.setJarByClass(DataLabel.class);
         job.setJobName("DataLabel");
 
