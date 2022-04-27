@@ -31,7 +31,7 @@ Instructions located in `data_ingest`.
 
 ### Input data 
 #### Twitter
-* `result.csv` - CSV file that contains tweets labeled as "real" or "fake
+* [result.csv](https://github.com/diptamath/covid_fake_news/blob/main/Results/result.csv) - CSV file that contains tweets labeled as "real" or "fake
   * transfer to Peel: 
   ```
   scp result.csv [netid]@peel.hpc.nyu.edu:/home/[netid]
