@@ -1,7 +1,7 @@
 # screenshots
 
 **Notes:**
-* some folders may be missing `step 1` or `step 2`. These missing screenshots are for the instruction: "Login to Peel"**
+* some folders may be missing `step 1` or `step 2`. These missing screenshots are for the instruction: "Login to Peel"
 * for all screenshots/instructions containing `mvn clean package assembly:single`, please run within the `/twitter` subdirectory. 
 
 For example: 
