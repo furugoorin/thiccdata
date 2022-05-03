@@ -2,7 +2,7 @@
 ## Crystal Chu and Allen Li 
 **NOTES FOR TWITTER:**
 * Maven is used to build project JAR. Dependencies are located in `pom.xml`
-* Before proceeding to run any of the programs, be sure to transfer the input files (see Input data section) to Peel
+* Before proceeding to run any of the programs, be sure to transfer the input files (see [Input data](#input-data)) to Peel
 
 
 ### Code Organization
